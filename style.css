@@ -233,7 +233,7 @@ main{
     }
     .parcours h2{
         font-size: 19px;
-        background: linear-gradient(to right,#404040, #000000) !important;
+        background: linear-gradient(to right,#404040, #000000) ;
     }
     .progress-bars{
         text-align: left;
@@ -325,6 +325,12 @@ main{
     }
     .progress-bars{
         margin-left: 110px;
+    }
+    .parcours-1 h2{
+        background: linear-gradient(to right,#404040, #000000)
+    }
+    .parcours-2 h2{
+        background: linear-gradient(to right,#404040, #000000)
     }
 }
 @media screen and (max-width: 500px){
