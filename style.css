@@ -140,11 +140,11 @@ main{
 }
 .info h2{
     color: var(--color-1);
-    font-size: 30px;
+    font-size: 25px ;
     display: inline-block;
     font-weight: 300;
     padding: 6px 50px;
-    background-color:var(--color-3);
+    background: linear-gradient(to left, #16222a, #3a6073);
     border-radius: 0 30px 30px 0px;
     margin-top: 30px;
 }
