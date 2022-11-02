@@ -326,6 +326,9 @@ main{
     .progress-bars{
         margin-left: 110px;
     }
+    .parcours h2{
+        background: linear-gradient(to right,#404040, #000000)
+    }
     .parcours-1 h2{
         background: linear-gradient(to right,#404040, #000000)
     }
